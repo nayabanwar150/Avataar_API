@@ -1,2 +1,2 @@
-# Avataar_API
-Small project on Avataar API where you can get avataar of your names.
+# Avatar_API
+Small project on Avatar API where you can get Avatar of your names.
